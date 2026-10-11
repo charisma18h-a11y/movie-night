@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ar" dir="rtl">
 <head>
     <meta charset="UTF-8">
@@ -563,8 +563,7 @@
             <h2 class="intro-title">ملتقى الأفلام</h2>
 
             <p class="intro-welcome-msg">
-                أهلاً وسهلاً بكم في التظاهرة السينمائية والإعلامية الأولى بـ الجامعة.<br>
-                يسرنا أن نأخذكم في رحلة تجمع الفن البصري بالخطابة والإبداع السينمائي.
+            
             </p>
 
             <button class="btn-enter" onclick="enterSite()">
